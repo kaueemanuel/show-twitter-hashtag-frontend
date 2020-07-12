@@ -59,7 +59,7 @@ REACT_APP_SERVER=http://localhost:8888/
 ```
 Obs.: Caso faça alteração da porta do servidor lembre-se de alterar nesse arquivo também.
 
-### Ininialização
+### Inicialização
 Para iniciar a aplicação certifique-se que o BackEnd esteja rodando [Show Twitter Hashtag - BackEnd](https://github.com/kaueemanuel/show-twitter-hashtag-backend).
 
 #### `npm run start`
