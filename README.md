@@ -39,8 +39,20 @@ Para o funcionamento desse repositório é necessário fazer uso do seu BackEnd 
 ## Mãos na massa
 ### Instalação
 Clonar o repositório:
+#### `git clone https://github.com/kaueemanuel/show-twitter-hashtag-frontend.git` 
+#### `cd show-twitter-hashtag-frontend.git` 
 
-#### `git clone` 
+Instalar dependências:
+#### `npm install`
+ou 
+#### `yarn` 
+
+### Ininialização
+Para iniciar a aplicação certifique-se que o BackEnd esteja rodando [Show Twitter Hashtag - BackEnd](http://localhost:3000).
+
+#### `npm run start`
+ou 
+#### `yarn start` 
 
 ## Available Scripts
 
