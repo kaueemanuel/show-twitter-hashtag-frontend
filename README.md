@@ -69,3 +69,10 @@ ou
 Após executar os comando se não abrir automaticamente o navegar, basta acessar: [http://localhost:3000](http://localhost:3000).
 
 
+## Contato
+
+
+Kauê Malheiros - [GitHub](https://github.com/kaueemanuel) - [Linkedin](https://www.linkedin.com/in/kaue-malheiros).
+
+Email: kaue.malheiros@gmail.com
+
