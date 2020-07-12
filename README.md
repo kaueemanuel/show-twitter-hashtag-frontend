@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
     <h1>Show Twitter Hashtag - FrontEnd</h1>
     Aplicativo para aprovação de tweets de uma determinada hashtag e visualização dos mesmos em um telão.
 </div>
@@ -36,24 +36,24 @@ Um diretor de TV precisa exibir em um telão, os tweets que chegam contendo uma 
 ### Importante
 Para o funcionamento desse repositório é necessário fazer uso do seu BackEnd - [Show Twitter Hashtag - BackEnd](https://github.com/kaueemanuel/show-twitter-hashtag-backend).
 
-## Mão na massa
+## Intalaçao e Inicialização
 ### Instalação
 #### Clonar o repositório:
 
 ```
 git clone https://github.com/kaueemanuel/show-twitter-hashtag-frontend.git
 
-cd show-twitter-hashtag-frontend.git
+cd show-twitter-hashtag-frontend
 ```
 
-#### Instalar dependências:
+#### Dependências:
 
 #### `npm install`
 ou
 #### `yarn` 
 
 #### ENV:
-Crie um arquivo `.env` e nele escreva a seguinte variável:
+Na raiz do projeto crie um arquivo `.env` e nele escreva a seguinte variável:
 ```
 REACT_APP_SERVER=http://localhost:8888/
 ```
