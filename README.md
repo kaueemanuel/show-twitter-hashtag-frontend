@@ -2,9 +2,7 @@
     <h1>Show Twitter Hashtag - FrontEnd</h1>
     Aplicativo para aprovação de tweets de uma determinada hashtag e visualização dos mesmos em um telão.
 </div>
- 
-
- 
+  
 
 ### Tela Controle
 
@@ -36,7 +34,7 @@ Um diretor de TV precisa exibir em um telão, os tweets que chegam contendo uma 
 ### Importante
 Para o funcionamento desse repositório é necessário fazer uso do seu BackEnd - [Show Twitter Hashtag - BackEnd](https://github.com/kaueemanuel/show-twitter-hashtag-backend).
 
-## Intalaçao e Inicialização
+## Instalação e Inicialização
 ### Instalação
 #### Clonar o repositório:
 
