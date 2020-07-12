@@ -66,7 +66,7 @@ Para iniciar a aplicação certifique-se que o BackEnd esteja rodando [Show Twit
 ou 
 #### `yarn start` 
 
-Após executar os comando se não abrir automaticamente o navegar, basta acessar: [http://localhost:3000](http://localhost:3000).
+Após executar os comandos se não abrir automaticamente o navegador, basta acessar: [http://localhost:3000](http://localhost:3000).
 
 
 ## Contato
